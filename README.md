@@ -42,7 +42,6 @@ http://localhost:3000
 
 ### register route
 - **POST** request for register route
- - the url of home route
 ```
 http://localhost:3000/api/users/register
 
@@ -64,7 +63,6 @@ body (body ->raw -> JSON)
 
 ### Login route
 - **POST** request for login route
- - the url of home route
 ```
 http://localhost:3000/api/users/login
 
@@ -85,7 +83,7 @@ body (body ->raw -> JSON)
 
 ### booking route
 - **POST** request for booking route
- - the url of home route
+
 ```
 http://localhost:3000/api/bookings/create-booking
 
@@ -107,7 +105,6 @@ body (body ->raw -> JSON)
 
 ### get booked rpoute of the user 
 - **POST** request for booking route
- - the url of home route
 ```
 http://localhost:3000/api/bookings/get-bookings
 
