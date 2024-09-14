@@ -9,6 +9,27 @@
 
 ## MVC 
 
+## How to start
+```
+npn i -y
+
+npm i bcryptjs 
+npm i cors 
+npm i dotenv 
+npm i express 
+npm i joi j
+npm i jsonwebtoken 
+npm i mongoose 
+npm i nodemailer 
+```
+
+## .env file structure
+```
+CS= atlas connection string
+SecretKey = sadflksdjflksdlfl
+EMAIL=your_email
+EMAIL_PASSWORD=Your_16_letter_passowrd
+```
 ## All urls
 
 ### home route
