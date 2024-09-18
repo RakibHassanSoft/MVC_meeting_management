@@ -22,7 +22,9 @@ npm i express
 npm i joi
 npm i jsonwebtoken 
 npm i mongoose 
-npm i nodemailer 
+npm i nodemailer
+npm install cookie-parser
+
 ```
 
 ## .env file structure
