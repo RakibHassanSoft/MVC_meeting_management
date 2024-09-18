@@ -2,6 +2,7 @@
 const bcrypt = require('bcryptjs');
 
 const UserSchemaMethods = (schema) => {
+  
   // Pre-save middleware
   schema.pre('save', async function (next) {
 

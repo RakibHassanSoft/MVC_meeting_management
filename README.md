@@ -1,9 +1,11 @@
+<!-- 
 //MVC
 //data base structure done 
 //controller done
 //route done
 //utils done
-//connectDB done
+//connectDB done 
+-->
 
 ### Backend platform
 
@@ -17,7 +19,7 @@ npm i bcryptjs
 npm i cors 
 npm i dotenv 
 npm i express 
-npm i joi j
+npm i joi
 npm i jsonwebtoken 
 npm i mongoose 
 npm i nodemailer 
